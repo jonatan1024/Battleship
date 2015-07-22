@@ -1,0 +1,3 @@
+Klasická hra Lodě s možnostmi: 
+1. pro dva hráče na více PC (podmínkou je naprogramovat síťové rozhraní) 
+2. pro jednoho hráče proti počítači s několika stupni obtížnosti (v jednoduché obtížnosti počítač náhodně vybírá políčka ke střelbě, u složitější používá různé strategie k vítězství)
